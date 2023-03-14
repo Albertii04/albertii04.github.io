@@ -478,17 +478,6 @@
           "type": "File",
           "artifact": {
             "size": 8196,
-            "url": "https://albertii04.github.io/mods/user_side/servers/Moirca-1.19.2/files/.DS_Store",
-            "MD5": "db29a788e7115524f3bfcebd687d98b7",
-            "path": ".DS_Store"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 8196,
             "url": "https://albertii04.github.io/mods/user_side/servers/Moirca-1.19.2/files/config/.DS_Store",
             "MD5": "921c15bc8be369043f0de0eb3505fdff",
             "path": "config/.DS_Store"
