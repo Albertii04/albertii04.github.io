@@ -32,7 +32,7 @@ customization {
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = ed2f3c8e-a7ea-4f8e-a54e-762529e686c71678809078353
   y = 22
-  playername = Albertii04
+  playername = Dream
   bodyrotationx = -3.75
   parrot = true
   bodyrotationy = 0.0
