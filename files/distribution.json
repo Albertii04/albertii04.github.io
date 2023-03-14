@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -767,6 +767,28 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/fancymenu_data/last_world.fmdata",
             "MD5": "ce66c4486f0b8c22935eafa87e8acca3",
             "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3557,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/options.txt",
+            "MD5": "3cd0e27db79c0c4fb07ae5c79a67d6da",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/optionsshaders.txt",
+            "MD5": "dcfc2b5a88fc12846ab45dd58367551e",
+            "path": "optionsshaders.txt"
           }
         }
       ]
