@@ -4,13 +4,13 @@
     "version": "1.0.0",
     "name": "Moirca (Minecraft 1.19.2)",
     "description": "Moirca Running Minecraft 1.19.2 (Forge v43.2.0)",
-    "address": "jw-moirca.es",
+    "address": "mc.jw-moirca.es",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
