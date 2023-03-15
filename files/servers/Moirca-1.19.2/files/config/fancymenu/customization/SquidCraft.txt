@@ -1,0 +1,231 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -164
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-right
+  x = -164
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Salir
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 151
+  action = movebutton
+  y = 91
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 12
+  action = movebutton
+  y = 22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 123
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Patio de Juegos
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-right
+  x = -338
+  action = movebutton
+  y = 27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 77
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 92ff8fa2-941d-4e98-a6e1-233ddd0697ca1678811043100
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 8fc3c6d8-205e-4c97-b6e1-f40e3e3b0e3d1678811043106
+  y = 234
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 193
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 913b49bd-8de5-462e-9322-40e6e619a0051678811043107
+  y = 220
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 341
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 872a167a-f9ae-4988-ab41-2ba80546251a1678811043107
+  y = 169
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 79
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 19e97b21-e058-4d20-bcb6-41d54940fc0c1678811043107
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 51d030bd-a4f2-45d7-8255-5c63c16699de1678811043107
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = -164
+  width = 141
+  actionid = c3871486-7e79-4bc1-8f24-2bd3d74b2f7e1678813466448
+  action = addbutton
+  y = -18
+  label = Jugar
+  value = mc.jw-moirca.es
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton
+  label = Idioma
+  loopbackgroundanimations = true
+  hoverlabel = Idioma
+  x = -164
+  width = 141
+  actionid = e2f56c6e-171b-489d-8ef7-37f8501f9bc41678813702884
+  action = addbutton
+  y = 7
+  value = net.minecraft.client.gui.screens.OptionsScreen:345256
+  height = 20
+}
+
