@@ -1,3 +1,0 @@
-identifier = SquidCraft
-title = Moirca Studios SCG
-allowesc = true
