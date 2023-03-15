@@ -79,11 +79,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui
-  x = 90
+  x = 138
   width = 204
   actionid = 9f316810-a49d-4b08-bc3a-aa8f80b69bf21678824207356
   action = addbutton
-  y = 142
+  y = 156
   label = Desconectarse
   value = net.minecraft.client.gui.screens.TitleScreen
   height = 20
