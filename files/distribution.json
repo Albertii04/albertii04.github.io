@@ -473,6 +473,28 @@
           }
         },
         {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/.DS_Store",
+            "MD5": "d9a4435f07e99e0f2313c3a6b09935e7",
+            "path": ".DS_Store"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/.DS_Store",
+            "MD5": "786b0e80453927b0c7108b30f952abbd",
+            "path": "config/.DS_Store"
+          }
+        },
+        {
           "id": "cmdcam-client.json",
           "name": "cmdcam-client.json",
           "type": "File",
@@ -481,6 +503,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/cmdcam-client.json",
             "MD5": "0a36f08df7ec1fcf96315306b5bb15b3",
             "path": "config/cmdcam-client.json"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 8196,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/.DS_Store",
+            "MD5": "e8dd895610bd0fc8274b0284ea0cb9d0",
+            "path": "config/fancymenu/.DS_Store"
           }
         },
         {
@@ -756,39 +789,6 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/rubidium-options.json",
             "MD5": "24d559a51190559c5bf87a162ef3cec4",
             "path": "config/rubidium-options.json"
-          }
-        },
-        {
-          "id": "last_world.fmdata",
-          "name": "last_world.fmdata",
-          "type": "File",
-          "artifact": {
-            "size": 86,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/fancymenu_data/last_world.fmdata",
-            "MD5": "ce66c4486f0b8c22935eafa87e8acca3",
-            "path": "fancymenu_data/last_world.fmdata"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3557,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/options.txt",
-            "MD5": "3cd0e27db79c0c4fb07ae5c79a67d6da",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "optionsshaders.txt",
-          "name": "optionsshaders.txt",
-          "type": "File",
-          "artifact": {
-            "size": 14,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/optionsshaders.txt",
-            "MD5": "dcfc2b5a88fc12846ab45dd58367551e",
-            "path": "optionsshaders.txt"
           }
         }
       ]
