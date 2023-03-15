@@ -473,28 +473,6 @@
           }
         },
         {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/.DS_Store",
-            "MD5": "e143ef594dc239e6f7f78eed561401b3",
-            "path": ".DS_Store"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/.DS_Store",
-            "MD5": "37103a18af148a8d61260126a8e97862",
-            "path": "config/.DS_Store"
-          }
-        },
-        {
           "id": "cmdcam-client.json",
           "name": "cmdcam-client.json",
           "type": "File",
@@ -503,17 +481,6 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/cmdcam-client.json",
             "MD5": "0a36f08df7ec1fcf96315306b5bb15b3",
             "path": "config/cmdcam-client.json"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 8196,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/.DS_Store",
-            "MD5": "fd8885b94ce3fa38ef7115d8cc227072",
-            "path": "config/fancymenu/.DS_Store"
           }
         },
         {
@@ -547,28 +514,6 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customizablemenus.txt",
             "MD5": "eda9f9978fcb084288e09a7d32d62941",
             "path": "config/fancymenu/customizablemenus.txt"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.DS_Store",
-            "MD5": "373aa20f55444fcd0d0d138470105a93",
-            "path": "config/fancymenu/customization/.DS_Store"
-          }
-        },
-        {
-          "id": ".DS_Store",
-          "name": ".DS_Store",
-          "type": "File",
-          "artifact": {
-            "size": 6148,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.disabled/.DS_Store",
-            "MD5": "194577a7e20bdcc7afbb718f502c134c",
-            "path": "config/fancymenu/customization/.disabled/.DS_Store"
           }
         },
         {
