@@ -468,8 +468,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6430507,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I1_MOD.jar",
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_I1_MOD.jar",
             "MD5": "96296caaf1f9d4b8c7ec9cc30458542f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
