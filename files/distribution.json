@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.19.2_HD_U_I1@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6932845,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I1.jar",
+            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
@@ -532,9 +542,9 @@
           "name": "In-game[esc].txt",
           "type": "File",
           "artifact": {
-            "size": 1920,
+            "size": 1919,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/In-game[esc].txt",
-            "MD5": "9bbc64dde37c85d5729144acba23e8f3",
+            "MD5": "cd3d3ec0ddc3ab533a6072f1abde4d55",
             "path": "config/fancymenu/customization/In-game[esc].txt"
           }
         },
@@ -543,9 +553,9 @@
           "name": "SquidCraft.txt",
           "type": "File",
           "artifact": {
-            "size": 5219,
+            "size": 4915,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/SquidCraft.txt",
-            "MD5": "aa214454882ae436a5657d86b670fc8e",
+            "MD5": "5b4ed874ac7ac2d1f774735d8a1bb621",
             "path": "config/fancymenu/customization/SquidCraft.txt"
           }
         },
@@ -631,9 +641,9 @@
           "name": "fml.toml",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 299,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fml.toml",
-            "MD5": "5829888c0be966fa241b4e7bbf274dce",
+            "MD5": "38f8ae3e9c25c88819f60603453770e8",
             "path": "config/fml.toml"
           }
         },
@@ -642,9 +652,9 @@
           "name": "forge-client.toml",
           "type": "File",
           "artifact": {
-            "size": 878,
+            "size": 862,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/forge-client.toml",
-            "MD5": "97401cc1dce4ef7a382b89953c8e6b90",
+            "MD5": "e77d6db7edf37575a93f24afbc054aeb",
             "path": "config/forge-client.toml"
           }
         },
@@ -653,9 +663,9 @@
           "name": "forge-common.toml",
           "type": "File",
           "artifact": {
-            "size": 566,
+            "size": 556,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/forge-common.toml",
-            "MD5": "74719f4a0ed1e053a9ffad049ace6325",
+            "MD5": "920796a16a7b1467acb7929062a46784",
             "path": "config/forge-common.toml"
           }
         },
@@ -664,9 +674,9 @@
           "name": "forge-resource-caching.toml",
           "type": "File",
           "artifact": {
-            "size": 637,
+            "size": 627,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/forge-resource-caching.toml",
-            "MD5": "10be5650c065e0013517d49833889d94",
+            "MD5": "4c1264f44b44a1eda8be4dc6f5fc7a0f",
             "path": "config/forge-resource-caching.toml"
           }
         },

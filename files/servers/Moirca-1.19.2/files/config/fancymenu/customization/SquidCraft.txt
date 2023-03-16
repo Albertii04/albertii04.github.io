@@ -177,7 +177,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 103
+  x = 79
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 19e97b21-e058-4d20-bcb6-41d54940fc0c1678811043107
@@ -226,21 +226,6 @@ customization {
   action = addbutton
   y = 7
   value = net.minecraft.client.gui.screens.OptionsScreen:345256
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  x = -17
-  width = 35
-  actionid = 69a9c823-5caf-4ac4-b7d0-02623356f21e1678917564631
-  action = addbutton
-  y = -10
-  label = patas
-  value = 
   height = 20
 }
 
