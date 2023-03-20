@@ -531,9 +531,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 381,
+            "size": 331,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "6685bdf4bb66ecb010b76086a4361380",
+            "MD5": "2361f4828ddc15a569603f07ef91eb22",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -795,9 +795,9 @@
           "name": "rubidium-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 330,
+            "size": 268,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/rubidium-mixins.properties",
-            "MD5": "013edf2104fe94b5e71a4db2e0dcb1fb",
+            "MD5": "930aecb1937f8b4122ce63b01b1e5ad3",
             "path": "config/rubidium-mixins.properties"
           }
         },
@@ -828,9 +828,9 @@
           "name": "sodium-extra.properties",
           "type": "File",
           "artifact": {
-            "size": 422,
+            "size": 423,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/sodium-extra.properties",
-            "MD5": "659fe2baad3e2b9004b112ff8bbd6ce4",
+            "MD5": "c136bb88001b68d6dc992db78347957d",
             "path": "config/sodium-extra.properties"
           }
         }
