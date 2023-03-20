@@ -26,7 +26,7 @@ customization {
 customization {
   identifier = %id=345154%
   orientation = top-centered
-  x = -76
+  x = -80
   action = movebutton
   y = 65
 }
@@ -34,17 +34,17 @@ customization {
 customization {
   identifier = %id=505232%
   orientation = mid-centered
-  x = 4
+  x = 2
   action = movebutton
-  y = -87
+  y = -61
 }
 
 customization {
   identifier = %id=505280%
   orientation = mid-centered
-  x = 4
+  x = 2
   action = movebutton
-  y = -114
+  y = -36
 }
 
 customization {
@@ -62,7 +62,7 @@ customization {
   orientation = mid-centered
   x = -155
   action = movebutton
-  y = -114
+  y = -61
 }
 
 customization {

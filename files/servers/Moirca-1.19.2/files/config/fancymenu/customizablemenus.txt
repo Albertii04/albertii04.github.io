@@ -15,3 +15,12 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
 }
 
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+

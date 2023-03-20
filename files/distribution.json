@@ -504,6 +504,17 @@
           }
         },
         {
+          "id": "stonebricksbg.jpg",
+          "name": "stonebricksbg.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 80551,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/Backgrounds/stonebricksbg.jpg",
+            "MD5": "92935981fa5e79c8a81bd989b79ff4f2",
+            "path": "config/fancymenu/Backgrounds/stonebricksbg.jpg"
+          }
+        },
+        {
           "id": "leaveserver.txt",
           "name": "leaveserver.txt",
           "type": "File",
@@ -519,9 +530,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1636,
+            "size": 1635,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/config.txt",
-            "MD5": "2128f2f87dd95f89e494c1ec086e4775",
+            "MD5": "c8bf4ab5a5099ad0e4bd772d94dbbc4d",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -541,9 +552,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 331,
+            "size": 516,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "2361f4828ddc15a569603f07ef91eb22",
+            "MD5": "7d5ea09e38279174fd81d70fb766e6c9",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -556,6 +567,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.disabled/SquidCraftMenu.txt",
             "MD5": "6b52a036465717c0c8a30c193cd322ba",
             "path": "config/fancymenu/customization/.disabled/SquidCraftMenu.txt"
+          }
+        },
+        {
+          "id": "Graphics.txt",
+          "name": "Graphics.txt",
+          "type": "File",
+          "artifact": {
+            "size": 406,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Graphics.txt",
+            "MD5": "198e6c1064878af0a7c23c6bbe305a0b",
+            "path": "config/fancymenu/customization/Graphics.txt"
           }
         },
         {
@@ -585,9 +607,9 @@
           "name": "Options.txt",
           "type": "File",
           "artifact": {
-            "size": 1075,
+            "size": 1073,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Options.txt",
-            "MD5": "653c3f3f3596db5b82eb100b4df3d703",
+            "MD5": "8d1a78d3f058c964715bf2170f0a0a60",
             "path": "config/fancymenu/customization/Options.txt"
           }
         },
