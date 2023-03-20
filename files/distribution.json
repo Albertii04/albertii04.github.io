@@ -515,14 +515,25 @@
           }
         },
         {
-          "id": "button.png",
-          "name": "button.png",
+          "id": "mainbutton.png",
+          "name": "mainbutton.png",
           "type": "File",
           "artifact": {
             "size": 773,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Buttons/button.png",
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Buttons/mainbutton.png",
             "MD5": "bfe55984aadb6738fccaafe33594efe2",
-            "path": "config/fancymenu/RESOURCES/Buttons/button.png"
+            "path": "config/fancymenu/RESOURCES/Buttons/mainbutton.png"
+          }
+        },
+        {
+          "id": "secondarybutton.png",
+          "name": "secondarybutton.png",
+          "type": "File",
+          "artifact": {
+            "size": 1134,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Buttons/secondarybutton.png",
+            "MD5": "5b731c0ce2f714860ceadd38d2db9285",
+            "path": "config/fancymenu/RESOURCES/Buttons/secondarybutton.png"
           }
         },
         {
@@ -620,7 +631,7 @@
           "artifact": {
             "size": 1073,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Options.txt",
-            "MD5": "8d1a78d3f058c964715bf2170f0a0a60",
+            "MD5": "84e45d9ed3d6fc7506b2380714e14ad0",
             "path": "config/fancymenu/customization/Options.txt"
           }
         },
@@ -629,9 +640,9 @@
           "name": "SquidCraft.txt",
           "type": "File",
           "artifact": {
-            "size": 4915,
+            "size": 6009,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/SquidCraft.txt",
-            "MD5": "5b4ed874ac7ac2d1f774735d8a1bb621",
+            "MD5": "da2753b7b5ddae8a8e85e8db01a9b393",
             "path": "config/fancymenu/customization/SquidCraft.txt"
           }
         },

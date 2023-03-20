@@ -44,6 +44,15 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-right
   x = -164
@@ -65,6 +74,15 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -82,6 +100,11 @@ customization {
   width = 141
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
 }
 
 customization {
@@ -177,7 +200,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 79
+  x = 183
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 19e97b21-e058-4d20-bcb6-41d54940fc0c1678811043107
@@ -200,15 +223,17 @@ customization {
 
 customization {
   orientation = mid-right
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  label = Jugar
+  loopbackgroundanimations = true
   x = -164
   width = 141
   actionid = c3871486-7e79-4bc1-8f24-2bd3d74b2f7e1678813466448
   action = addbutton
   y = -18
-  label = Jugar
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
   value = mc.jw-moirca.es
   height = 20
 }
@@ -217,6 +242,7 @@ customization {
   orientation = mid-right
   restartbackgroundanimations = true
   buttonaction = mimicbutton
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
   label = Idioma
   loopbackgroundanimations = true
   hoverlabel = Idioma
@@ -225,6 +251,7 @@ customization {
   actionid = e2f56c6e-171b-489d-8ef7-37f8501f9bc41678813702884
   action = addbutton
   y = 7
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
   value = net.minecraft.client.gui.screens.OptionsScreen:345256
   height = 20
 }
