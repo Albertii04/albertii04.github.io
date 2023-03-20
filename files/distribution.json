@@ -509,9 +509,20 @@
           "type": "File",
           "artifact": {
             "size": 80551,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/Backgrounds/stonebricksbg.jpg",
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Backgrounds/stonebricksbg.jpg",
             "MD5": "92935981fa5e79c8a81bd989b79ff4f2",
-            "path": "config/fancymenu/Backgrounds/stonebricksbg.jpg"
+            "path": "config/fancymenu/RESOURCES/Backgrounds/stonebricksbg.jpg"
+          }
+        },
+        {
+          "id": "button.png",
+          "name": "button.png",
+          "type": "File",
+          "artifact": {
+            "size": 773,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Buttons/button.png",
+            "MD5": "bfe55984aadb6738fccaafe33594efe2",
+            "path": "config/fancymenu/RESOURCES/Buttons/button.png"
           }
         },
         {
