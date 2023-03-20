@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.OptionsScreen {
-}
-
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 

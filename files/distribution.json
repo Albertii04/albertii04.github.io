@@ -473,6 +473,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:1.19.2-0.4.11.44@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203480,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/required/RubidiumExtra-1.19.2-0.4.11.44.jar",
+            "MD5": "59bfe6119bbcb2031c31d680c0cf223d"
+          }
+        },
+        {
           "id": "cmdcam-client.json",
           "name": "cmdcam-client.json",
           "type": "File",
@@ -521,9 +531,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 433,
+            "size": 381,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "eda9f9978fcb084288e09a7d32d62941",
+            "MD5": "6685bdf4bb66ecb010b76086a4361380",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -558,6 +568,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/In-game[esc].txt",
             "MD5": "cd3d3ec0ddc3ab533a6072f1abde4d55",
             "path": "config/fancymenu/customization/In-game[esc].txt"
+          }
+        },
+        {
+          "id": "Options.txt",
+          "name": "Options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1075,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Options.txt",
+            "MD5": "653c3f3f3596db5b82eb100b4df3d703",
+            "path": "config/fancymenu/customization/Options.txt"
           }
         },
         {
