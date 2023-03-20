@@ -463,19 +463,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I1@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6430507,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_I1_MOD.jar",
-            "MD5": "96296caaf1f9d4b8c7ec9cc30458542f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
@@ -497,13 +484,24 @@
           }
         },
         {
+          "id": "leaveserver.txt",
+          "name": "leaveserver.txt",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/buttonscripts/leaveserver.txt",
+            "MD5": "bbda95825f25849df587ea573fc40a23",
+            "path": "config/fancymenu/buttonscripts/leaveserver.txt"
+          }
+        },
+        {
           "id": "config.txt",
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1635,
+            "size": 1636,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/config.txt",
-            "MD5": "c8bf4ab5a5099ad0e4bd772d94dbbc4d",
+            "MD5": "2128f2f87dd95f89e494c1ec086e4775",
             "path": "config/fancymenu/config.txt"
           }
         },
@@ -530,13 +528,24 @@
           }
         },
         {
+          "id": "SquidCraftMenu.txt",
+          "name": "SquidCraftMenu.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1035,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.disabled/SquidCraftMenu.txt",
+            "MD5": "6b52a036465717c0c8a30c193cd322ba",
+            "path": "config/fancymenu/customization/.disabled/SquidCraftMenu.txt"
+          }
+        },
+        {
           "id": "Idioma.txt",
           "name": "Idioma.txt",
           "type": "File",
           "artifact": {
-            "size": 763,
+            "size": 563,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Idioma.txt",
-            "MD5": "175b1ab24e6a47cab54b6ec940559be0",
+            "MD5": "aad6ae9365b6ce9e14e8aa33283cb246",
             "path": "config/fancymenu/customization/Idioma.txt"
           }
         },
@@ -560,6 +569,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/SquidCraft.txt",
             "MD5": "5b4ed874ac7ac2d1f774735d8a1bb621",
             "path": "config/fancymenu/customization/SquidCraft.txt"
+          }
+        },
+        {
+          "id": "SquidCraftMenu.txt",
+          "name": "SquidCraftMenu.txt",
+          "type": "File",
+          "artifact": {
+            "size": 535,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/SquidCraftMenu.txt",
+            "MD5": "042edadde38f8a560aa92aa9ebab5fc7",
+            "path": "config/fancymenu/customization/SquidCraftMenu.txt"
           }
         },
         {
@@ -626,6 +646,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/menu_identifiers.db",
             "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
             "path": "config/fancymenu/menu_identifiers.db"
+          }
+        },
+        {
+          "id": "panorama.jpeg",
+          "name": "panorama.jpeg",
+          "type": "File",
+          "artifact": {
+            "size": 5859,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/panoramas/panorama.jpeg",
+            "MD5": "ff30d904a8b622d3964c5d1690701876",
+            "path": "config/fancymenu/panoramas/panorama.jpeg"
           }
         },
         {
