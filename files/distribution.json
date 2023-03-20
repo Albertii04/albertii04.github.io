@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.19.2@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194768,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/forgemods/required/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar",
+            "MD5": "cfa35950ee6e5f73b32a68878ff3cccd"
+          }
+        },
+        {
           "id": "cmdcam-client.json",
           "name": "cmdcam-client.json",
           "type": "File",
@@ -828,9 +838,9 @@
           "name": "sodium-extra.properties",
           "type": "File",
           "artifact": {
-            "size": 423,
+            "size": 393,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/sodium-extra.properties",
-            "MD5": "c136bb88001b68d6dc992db78347957d",
+            "MD5": "1c6c59b87b8e36c9432e09e346ab3771",
             "path": "config/sodium-extra.properties"
           }
         }
