@@ -563,9 +563,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 1635,
+            "size": 1634,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/config.txt",
-            "MD5": "c8bf4ab5a5099ad0e4bd772d94dbbc4d",
+            "MD5": "9bd64c1d6b1fb3d4bb2e7de6af94cc6b",
             "path": "config/fancymenu/config.txt"
           }
         },
