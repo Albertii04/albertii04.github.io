@@ -592,17 +592,6 @@
           }
         },
         {
-          "id": "SquidCraftMenu.txt",
-          "name": "SquidCraftMenu.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1035,
-            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.disabled/SquidCraftMenu.txt",
-            "MD5": "6b52a036465717c0c8a30c193cd322ba",
-            "path": "config/fancymenu/customization/.disabled/SquidCraftMenu.txt"
-          }
-        },
-        {
           "id": "AudioSettings.txt",
           "name": "AudioSettings.txt",
           "type": "File",
