@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = config/fancymenu/RESOURCES/Backgrounds/stonebricksbg.jpg
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -25,31 +30,40 @@ customization {
 
 customization {
   identifier = %id=345154%
-  orientation = top-centered
-  x = -80
+  orientation = top-left
+  x = 0
   action = movebutton
-  y = 65
+  y = 0
+  advanced_posx = 240
+  advanced_posy = 65
 }
 
 customization {
-  identifier = %id=505232%
-  orientation = mid-centered
-  x = 2
-  action = movebutton
-  y = -68
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
 }
 
 customization {
   identifier = %id=505280%
-  orientation = mid-centered
-  x = 2
+  orientation = top-left
+  x = 0
   action = movebutton
-  y = -36
+  y = 0
+  advanced_posx = 322
+  advanced_posy = 164
 }
 
 customization {
-  identifier = %id=345208%
-  action = hidebutton
+  identifier = %id=505280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
 }
 
 customization {
@@ -58,15 +72,88 @@ customization {
 }
 
 customization {
-  identifier = %id=505208%
-  orientation = mid-centered
-  x = -155
-  action = movebutton
-  y = -36
+  identifier = %id=505256%
+  action = hidebutton
 }
 
 customization {
-  identifier = %id=505256%
+  identifier = %id=505232%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = 322
+  advanced_posy = 132
+}
+
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
+  identifier = %id=345208%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = 165
+  advanced_posy = 164
+}
+
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = 220
+  advanced_posy = 234
+}
+
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = 165
+  advanced_posy = 132
+}
+
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
 }
 

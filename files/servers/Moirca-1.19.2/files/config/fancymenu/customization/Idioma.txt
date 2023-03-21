@@ -14,7 +14,7 @@ customization {
 }
 
 customization {
-  identifier = %id=345962%
+  identifier = %id=505962%
   action = hidebutton
 }
 
@@ -30,6 +30,26 @@ customization {
   identifier = %id=505962%
   width = 198
   action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345962%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 216
+  width = 198
+  actionid = de65cbf3-df2b-4ae7-acdd-80c5d61eb5d91679407413253
+  action = addbutton
+  y = 354
+  label = Hecho
+  value = net.minecraft.client.gui.screens.TitleScreen
   height = 20
 }
 

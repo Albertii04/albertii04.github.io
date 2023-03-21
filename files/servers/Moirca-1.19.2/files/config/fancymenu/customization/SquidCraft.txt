@@ -24,35 +24,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-right
-  x = -164
-  action = movebutton
-  y = 32
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  width = 141
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
-  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-right
   x = -164
@@ -83,26 +54,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-left
-  x = 151
-  action = movebutton
-  y = 91
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  width = 141
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = hidebutton
 }
@@ -129,6 +80,60 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -164
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/RESOURCES/Buttons/secondarybutton.png
+  backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 151
+  action = movebutton
+  y = 91
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = hidebutton
 }
@@ -146,11 +151,6 @@ customization {
   width = 200
   action = resizebutton
   height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
 }
 
 customization {
@@ -254,5 +254,33 @@ customization {
   backgroundnormal = config/fancymenu/RESOURCES/Buttons/mainbutton.png
   value = net.minecraft.client.gui.screens.OptionsScreen:345256
   height = 20
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 80
+  showname = false
+  follow_mouse = false
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 32b25ada-d4cf-4915-9632-cf4fac6225fd1679409086093
+  playername = Albertii04
+  bodyrotationx = -18.75
+  bodyrotationy = -7.5
+  auto_cape = false
+  is_baby = false
+  height = 144
+  orientation = top-left
+  copy_client_player = true
+  headrotationy = -24.375
+  headrotationx = -31.875
+  skinurl = http://textures.minecraft.net/texture/854e82f04492dd34b5a77e6480bbd09b014fc0e78f01650759349977592dd680
+  crouching = false
+  x = 0
+  width = 48
+  parrot_left_shoulder = false
+  y = 365
+  parrot = false
 }
 

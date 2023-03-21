@@ -508,9 +508,9 @@
           "name": "stonebricksbg.jpg",
           "type": "File",
           "artifact": {
-            "size": 80551,
+            "size": 179117,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Backgrounds/stonebricksbg.jpg",
-            "MD5": "92935981fa5e79c8a81bd989b79ff4f2",
+            "MD5": "340d623fe5432285d9bf68325f81044d",
             "path": "config/fancymenu/RESOURCES/Backgrounds/stonebricksbg.jpg"
           }
         },
@@ -534,6 +534,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/RESOURCES/Buttons/secondarybutton.png",
             "MD5": "5b731c0ce2f714860ceadd38d2db9285",
             "path": "config/fancymenu/RESOURCES/Buttons/secondarybutton.png"
+          }
+        },
+        {
+          "id": "languagedone.txt",
+          "name": "languagedone.txt",
+          "type": "File",
+          "artifact": {
+            "size": 136,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/buttonscripts/languagedone.txt",
+            "MD5": "fa00f12be93abbf137a95ba998dde262",
+            "path": "config/fancymenu/buttonscripts/languagedone.txt"
           }
         },
         {
@@ -574,9 +585,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 516,
+            "size": 573,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "7d5ea09e38279174fd81d70fb766e6c9",
+            "MD5": "c0638c69cf93077f245ebd5b05097570",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -589,6 +600,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/.disabled/SquidCraftMenu.txt",
             "MD5": "6b52a036465717c0c8a30c193cd322ba",
             "path": "config/fancymenu/customization/.disabled/SquidCraftMenu.txt"
+          }
+        },
+        {
+          "id": "AudioSettings.txt",
+          "name": "AudioSettings.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4492,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/AudioSettings.txt",
+            "MD5": "c6a3784f5450c60bea151c2ab6ceff81",
+            "path": "config/fancymenu/customization/AudioSettings.txt"
           }
         },
         {
@@ -607,9 +629,9 @@
           "name": "Idioma.txt",
           "type": "File",
           "artifact": {
-            "size": 563,
+            "size": 974,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Idioma.txt",
-            "MD5": "aad6ae9365b6ce9e14e8aa33283cb246",
+            "MD5": "fefa25c1c51c5ab9417a998d717115c8",
             "path": "config/fancymenu/customization/Idioma.txt"
           }
         },
@@ -629,9 +651,9 @@
           "name": "Options.txt",
           "type": "File",
           "artifact": {
-            "size": 1073,
+            "size": 3400,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/Options.txt",
-            "MD5": "84e45d9ed3d6fc7506b2380714e14ad0",
+            "MD5": "3b942a52cdccc22de1ed44b175500bcd",
             "path": "config/fancymenu/customization/Options.txt"
           }
         },
@@ -640,9 +662,9 @@
           "name": "SquidCraft.txt",
           "type": "File",
           "artifact": {
-            "size": 6009,
+            "size": 6813,
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/fancymenu/customization/SquidCraft.txt",
-            "MD5": "da2753b7b5ddae8a8e85e8db01a9b393",
+            "MD5": "6cfe56edd71d3f9aa8840868aad8c742",
             "path": "config/fancymenu/customization/SquidCraft.txt"
           }
         },
@@ -886,6 +908,17 @@
             "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/config/sodium-extra.properties",
             "MD5": "1c6c59b87b8e36c9432e09e346ab3771",
             "path": "config/sodium-extra.properties"
+          }
+        },
+        {
+          "id": "QUE NOOO.txt",
+          "name": "QUE NOOO.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://albertii04.github.io/files/servers/Moirca-1.19.2/files/mods/QUE%20NOOO.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "mods/QUE NOOO.txt"
           }
         }
       ]
