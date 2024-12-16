@@ -1,3 +1,0 @@
-mimicbutton:net.minecraft.client.gui.screens.LanguageSelectScreen:505962
-opengui:net.minecraft.client.gui.screens.TitleScreen
-reloadmenu

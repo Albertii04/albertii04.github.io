@@ -1,3 +1,0 @@
-mimicbutton:net.minecraft.client.gui.screens.PauseScreen:button_compatibility_id:mc_pausescreen_disconnect_button
-opengui:net.minecraft.client.gui.screens.TitleScreen
-reloadmenu
